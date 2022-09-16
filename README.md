@@ -1,7 +1,7 @@
+
+### Hi 👋
+
 <!-- 
-### Hi, I'm Vicky 👋
-
-
 Curently working as a Front End developer. ✨
 
 I am quick to pick up new skills and eager to learn from others 👯
